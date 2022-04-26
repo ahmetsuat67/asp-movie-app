@@ -21,12 +21,12 @@ import {
 //! firebase console settings bölümünden firebaseconfig ayarlarını al
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCg1fCEO8i7MQnM3SiMJPiVcADp_NI9XTw",
-  authDomain: "movie-app-1-6ec44.firebaseapp.com",
-  projectId: "movie-app-1-6ec44",
-  storageBucket: "movie-app-1-6ec44.appspot.com",
-  messagingSenderId: "950886341278",
-  appId: "1:950886341278:web:f4feb188157227da55398f",
+  apiKey: "AIzaSyCoSM3MURpaKMB0TedTSCmLKH59qQVWjR0",
+  authDomain: "asp67-e2484.firebaseapp.com",
+  projectId: "asp67-e2484",
+  storageBucket: "asp67-e2484.appspot.com",
+  messagingSenderId: "72591046115",
+  appId: "1:72591046115:web:a92e2523eff2ae173bdcd6"
 };
 
 // Initialize Firebase
